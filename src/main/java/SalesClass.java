@@ -16,6 +16,7 @@ public class SalesClass {
 				System.out.println(sum);
 			}
 		}
+		
 	}
 
 
