@@ -6,5 +6,7 @@ public class test {
 
 public void show() {
 	System.out.println("Student name");
+	System.out.println("Student parent name");
+	System.out.println("Student teacher name");
 }
 }
